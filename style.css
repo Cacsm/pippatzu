@@ -1,0 +1,70 @@
+body {background-color: grey;}
+
+.bandera {
+	background-color: white;
+	width: 500px;
+	height: 300px;
+	margin: 20px;
+	float: left;
+}
+.laos1 {
+	background-color: #C4220F;
+	height: 33.33%;
+}
+.laos2 {
+	background-color: #142C76;
+	height: 33.33%;
+}
+.laos3 {
+	background-color: #C4220F;
+	height: 33.33%;
+}
+
+.mex1 {
+	background-color: #14802E;
+	width: 33.33%;
+	height: 100%;
+	float: left;
+}
+.mex2 {
+	background-color: white;
+	width: 33.33%;
+	height: 100%;
+	float: left;
+}
+.mex.png{
+}
+
+.mex3 {
+	background-color: #E62C26;
+	width: 33.33%;
+	height: 100%;
+	float: left;
+}
+
+.mada1 {
+	background-color: #E62C26;
+	height: 50%;
+	width: 70%;
+	float: right;
+}
+.mada2 {
+	background-color: green;
+	height: 50%;
+	width: 70%;
+	float: right;
+}
+.mada3 {
+	background-color: white;
+	width: 30%;
+	height: 100%
+	float:left;
+
+}
+
+
+
+
+
+
+
